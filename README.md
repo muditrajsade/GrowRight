@@ -22,12 +22,14 @@ In the world of smart agriculture, selecting the right crop is crucial for optim
 
 ## 🛠️ Tech Stack
 
-| Layer        | Technologies                           |
-|-------------|----------------------------------------|
-| **Frontend** | HTML5, CSS3                           |
-| **Backend**  | Flask (Python)                        |
-| **ML Model** | TensorFlow (ANN), NumPy, Pandas, Scikit-learn |
-| **Dataset**  | [Kaggle - Smart Agricultural Production](https://www.kaggle.com/datasets/chitrakumari25/smart-agricultural-production-optimizing-engine) |
+| Layer         | Technologies                                                                 |
+|---------------|------------------------------------------------------------------------------|
+| **Frontend**  | HTML5, CSS3                                                                  |
+| **Backend**   | Flask (Python)                                                               |
+| **ML Model**  | TensorFlow (ANN), NumPy, Pandas, Scikit-learn                                |
+| **Dataset**   | [Kaggle - Smart Agricultural Production](https://www.kaggle.com/datasets/chitrakumari25/smart-agricultural-production-optimizing-engine) |
+| **Deployment**| Railway                                                                      |
+
 
 ---------------------------------------------------------------------------------
 ## 🔍 Exploratory Data Analysis (EDA)
