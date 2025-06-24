@@ -31,6 +31,19 @@ In the world of smart agriculture, selecting the right crop is crucial for optim
 
 ---------------------------------------------------------------------------------
 
+## 📊 Model Performance
+
+- **Accuracy:** 99% (0.99) on the test dataset, demonstrating excellent prediction capability.
+- Below is the confusion matrix for the trained ANN model, illustrating the classification performance across different crop classes.
+
+![Confusion Matrix](path/to/confusion_matrix_screenshot.png)
+
+*Note: Replace `path/to/confusion_matrix_screenshot.png` with the actual relative path or URL where you upload your image.*
+
+
+
+---------------------------------------------------------------------------------
+
 ## 📈 Future Improvements
 
 - 🌍 **Location-Based Input**  
