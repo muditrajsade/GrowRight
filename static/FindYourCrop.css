@@ -20,7 +20,7 @@
 /* Background and Overlay */
 body {
   background: linear-gradient(135deg, rgba(0,0,0,0.3), rgba(0,0,0,0.2)),
-              url("images/FindMyCrop_bg.jpg") no-repeat center center/cover fixed;
+              url("https://res.cloudinary.com/dp71rx6nx/image/upload/v1750778722/FindMyCrop_bg_llmcit.jpg") no-repeat center center/cover fixed;
   color: var(--text-light);
   min-height: 100vh;
   padding-top: 4rem;
