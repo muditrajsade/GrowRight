@@ -30,6 +30,13 @@ In the world of smart agriculture, selecting the right crop is crucial for optim
 | **Dataset**  | [Kaggle - Smart Agricultural Production](https://www.kaggle.com/datasets/chitrakumari25/smart-agricultural-production-optimizing-engine) |
 
 ---------------------------------------------------------------------------------
+## 🔍 Exploratory Data Analysis (EDA)
+
+- Comprehensive Exploratory Data Analysis (EDA) has been performed using Python notebooks.  
+- The EDA includes data cleaning, visualization, and feature correlation analysis to better understand the dataset before model training.
+- Insights from EDA helped in selecting relevant features and preprocessing steps for the ANN model.
+
+---------------------------------------------------------------------------------
 
 ## 📊 Model Performance
 
